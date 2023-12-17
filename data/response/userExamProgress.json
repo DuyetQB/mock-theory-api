@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "code": 200000,
+    "type": "SUCCESS",
+    "message": "Get user exam progress successfully",
+    "service": "dtts",
+    "extraMeta": null
+  },
+  "data": {
+    "userId": 1,
+    "exams": [
+      {
+        "examId": 25,
+        "session": {
+          "sessionId": 234,
+          "status": 1
+        },
+        "originalContent": "Alertness",
+        "translationContent": {
+          "vi": "Sự tỉnh táo"
+        },
+        "percent": 90,
+        "totalAnswered": 2,
+        "totalQuestions": 27,
+        "img": "https://driving-thery-test.com/image1.png"
+      }
+    ]
+  }
+}

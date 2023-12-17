@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "code": 200000,
+    "type": "SUCCESS",
+    "message": "Start new exam topic successfully",
+    "serviceId": "dtts",
+    "extraMeta": null
+  },
+  "data": {
+    "session": {
+      "sessionId": 1,
+      "userId": 34,
+      "examId": 12
+    },
+    "exam": {
+      "examId": 12,
+      "type": 1,
+      "limitTime": 57,
+      "questions": [
+        {
+          "questionId": 1,
+          "img": "https://cdn.dribbble.com/userupload/11531898/file/original-fd1c9c4aa5c279a00b859438017e5c88.png?resize=1200x1046",
+          "originalContent": "Check the sign to see if U-turns are allowed",
+          "translateContent": {
+            "vi": "Bạn nên làm gì trước khi quay đầu xe",
+            "en": "Check the sign to see if U-turns are allowed"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": true,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "img": "https://cdn.dribbble.com/userupload/10745454/file/original-84865dc450cc9f43e00035e4193ebcaf.png?resize=1200x900",
+          "originalContent": "Check the sign to see if U-turns are allowed",
+          "translateContent": {
+            "vi": "Bạn nên làm gì trước khi quay đầu xe",
+            "en": "Check the sign to see if U-turns are allowed"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": true,
+              "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "img": "https://cdn.dribbble.com/userupload/10498895/file/original-ea188904924598388646d5ada933700c.png?resize=1200x900",
+          "originalContent": "Check the sign to see if U-turns are allowed",
+          "translateContent": {
+            "vi": "Bạn nên làm gì trước khi quay đầu xe",
+            "en": "Check the sign to see if U-turns are allowed"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": true,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "img": "https://cdn.dribbble.com/userupload/7110435/file/original-1ba06d4ddb1cf2bc73ed5f7925a8c9b6.png?resize=1200x900",
+          "originalContent": "Check the sign to see if U-turns are allowed",
+          "translateContent": {
+            "vi": "Bạn nên làm gì trước khi quay đầu xe",
+            "en": "Check the sign to see if U-turns are allowed"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": true,
+              "img": null,
+              "originalContent": "Check the sign to see if U-turns are allowed",
+              "translateContent": {
+                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
