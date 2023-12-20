@@ -19,51 +19,51 @@
       "questions": [
         {
           "questionId": 1,
-          "img": "https://cdn.dribbble.com/userupload/11531898/file/original-fd1c9c4aa5c279a00b859438017e5c88.png?resize=1200x1046",
-          "originalContent": "Check the sign to see if U-turns are allowed",
+          "img": null,
+          "originalContent": "What should you do before making a U-turn?",
           "translateContent": {
             "vi": "Bạn nên làm gì trước khi quay đầu xe",
-            "en": "Check the sign to see if U-turns are allowed"
+            "en": "What should you do before making a U-turn?"
           },
           "options": [
             {
               "optionId": 1,
-              "isCorrect": true,
+              "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Give an arm signal as well as using your indicators",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Đưa ra tín hiệu bằng cánh tay đồng thời sử dụng xi nhan",
+                "en": "Give an arm signal as well as using your indicators"
               }
             },
             {
               "optionId": 2,
               "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Check road markings to see that U-turns are permitted",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Kiểm tra các vạch kẻ đường để biết rằng có được phép quay đầu xe hay không",
+                "en": "Check road markings to see that U-turns are permitted"
               }
             },
             {
               "optionId": 3,
-              "isCorrect": false,
+              "isCorrect": true,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Look over your shoulder for a final check",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Nhìn qua hai bên vai để kiểm tra lần cuối",
+                "en": "Look over your shoulder for a final check"
               }
             },
             {
               "optionId": 4,
               "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Select a higher gear than normal",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Chọn số cao hơn bình thường",
+                "en": "Select a higher gear than normal"
               }
             }
           ]
@@ -71,101 +71,101 @@
         {
           "questionId": 2,
           "img": "https://cdn.dribbble.com/userupload/10745454/file/original-84865dc450cc9f43e00035e4193ebcaf.png?resize=1200x900",
-          "originalContent": "Check the sign to see if U-turns are allowed",
+          "originalContent": "What should you do as you approach this bridge?",
           "translateContent": {
             "vi": "Bạn nên làm gì trước khi quay đầu xe",
-            "en": "Check the sign to see if U-turns are allowed"
+            "en": "What should you do as you approach this bridge?"
           },
           "options": [
             {
               "optionId": 1,
               "isCorrect": false,
               "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Move to the right",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Di chuyển sang bên phải",
+                "en": "Move to the right"
               }
             },
             {
               "optionId": 2,
               "isCorrect": true,
               "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Slow down",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Đi chậm lại",
+                "en": "Slow down"
               }
             },
             {
               "optionId": 3,
               "isCorrect": false,
               "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Change gear",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Chuyển số",
+                "en": "Change gear"
               }
             },
             {
               "optionId": 4,
               "isCorrect": false,
               "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Keep to 30 mph",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Duy trì tốc độ 30 dặm/giờ",
+                "en": "Keep to 30 mph"
               }
             }
           ]
         },
         {
           "questionId": 3,
-          "img": "https://cdn.dribbble.com/userupload/10498895/file/original-ea188904924598388646d5ada933700c.png?resize=1200x900",
-          "originalContent": "Check the sign to see if U-turns are allowed",
+          "img": null,
+          "originalContent": "Where should you avoid overtaking?",
           "translateContent": {
-            "vi": "Bạn nên làm gì trước khi quay đầu xe",
-            "en": "Check the sign to see if U-turns are allowed"
+            "vi": "Bạn nên tránh vượt ở đâu?",
+            "en": "Where should you avoid overtaking?"
           },
           "options": [
             {
               "optionId": 1,
               "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Just after a bend",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Ngay sau khúc cua",
+                "en": "Just after a bend"
               }
             },
             {
               "optionId": 2,
               "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "In a one-way street",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Trên đường một chiều",
+                "en": "In a one-way street"
               }
             },
             {
               "optionId": 3,
-              "isCorrect": true,
+              "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "On a 30 mph road",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
+                "vi": "Trên đoạn đường với vận tốc 30 dặm/giờ",
                 "en": "Check the sign to see if U-turns are allowed"
               }
             },
             {
               "optionId": 4,
-              "isCorrect": false,
+              "isCorrect": true,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Approaching a dip in the road",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Khi đến gần ổ gà",
+                "en": "Approaching a dip in the road"
               }
             }
           ]
@@ -173,50 +173,101 @@
         {
           "questionId": 4,
           "img": "https://cdn.dribbble.com/userupload/7110435/file/original-1ba06d4ddb1cf2bc73ed5f7925a8c9b6.png?resize=1200x900",
-          "originalContent": "Check the sign to see if U-turns are allowed",
+          "originalContent": "What does this curved arrow road marking mean?",
           "translateContent": {
-            "vi": "Bạn nên làm gì trước khi quay đầu xe",
-            "en": "Check the sign to see if U-turns are allowed"
+            "vi": "Ký hiệu mũi tên cong này có ý nghĩa gì?",
+            "en": "What does this curved arrow road marking mean?"
           },
           "options": [
             {
               "optionId": 1,
               "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Heavy vehicles should take the next road on the left to avoid a weight limit",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Xe trọng tải lớn nên đi theo làn đường phía bên trái để tránh bị giới hạn trọng lượng",
+                "en": "Heavy vehicles should take the next road on the left to avoid a weight limit"
               }
             },
             {
               "optionId": 2,
               "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "The road ahead bends to the left",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Con đường phía trước uốn cong về phía bên trái",
+                "en": "The road ahead bends to the left"
               }
             },
             {
               "optionId": 3,
-              "isCorrect": false,
+              "isCorrect": true,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "Overtaking traffic should move back to the left",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Vượt các phương tiện giao thông nên lùi về bên phải",
+                "en": "Overtaking traffic should move back to the left"
               }
             },
             {
               "optionId": 4,
-              "isCorrect": true,
+              "isCorrect": false,
               "img": null,
-              "originalContent": "Check the sign to see if U-turns are allowed",
+              "originalContent": "The road ahead has a camber to the left",
               "translateContent": {
-                "vi": "Kiểm tra biển báo hiệu xem có được quay đầu hình chữ U không",
-                "en": "Check the sign to see if U-turns are allowed"
+                "vi": "Con đường phía trước có một nút cong về bên trái",
+                "en": "The road ahead has a camber to the left"
+              }
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "img": null,
+          "originalContent": "Which instrument-panel warning light would show that headlights are on main beam?",
+          "translateContent": {
+            "vi": "Đèn cảnh báo trên bảng điều khiển nào cho biết đèn pha đang được bật?",
+            "en": "Which instrument-panel warning light would show that headlights are on main beam?"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": true,
+              "img": "https://cdn.dribbble.com/userupload/11651096/file/original-acf2c0c9527c1c6598b4647be67e9fe1.png?resize=1200x900",
+              "originalContent": null,
+              "translateContent": {
+                "vi": null,
+                "en": null
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/userupload/11509048/file/original-c86827e2ff864c9ed4a272b25267c2c2.png?resize=1200x900",
+              "originalContent": null,
+              "translateContent": {
+                "vi":null,
+                "en": null
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": true,
+              "img": "https://cdn.dribbble.com/userupload/10933891/file/original-a12651472a1b3b0e24a70e6956a1a122.png?resize=1200x900",
+              "originalContent": null,
+              "translateContent": {
+                "vi": null,
+                "en":null
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/userupload/8260185/file/original-041cfaaf1b345409bc2de3be1e18eca7.png?resize=1200x899",
+              "originalContent": null,
+              "translateContent": {
+                "vi":null,
+                "en": null
               }
             }
           ]
