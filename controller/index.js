@@ -1,5 +1,6 @@
 
 const ModelData = require("./mock.json");
+const RandomExam = require("../data/response/randomExam.json")
 
 const startNewExam = async (req, res) => {
 
@@ -11,7 +12,7 @@ const startNewExam = async (req, res) => {
       return res.status(200).json({ ...ModelData});
     }
     if(type === "random") {
-      return res.status(200).json({ data:[], statusCode: 200 });
+      return res.status(200).json({...RandomExam});
     }
   
   } catch (error) {

@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "code": 200000,
+    "type": "SUCCESS",
+    "message": "Start new exam topic successfully",
+    "serviceId": "dtts",
+    "extraMeta": null
+  },
+  "data": {
+    "session": {
+      "sessionId": 1,
+      "userId": 34,
+      "examId": 12
+    },
+    "exam": {
+      "examId": 12,
+      "type": 1,
+      "limitTime": 57,
+      "questions": [
+        {
+          "questionId": 1,
+          "img": null,
+          "originalContent": "What should you do before making a U-turn?",
+          "translateContent": {
+            "vi": "Bạn nên làm gì trước khi quay đầu xe",
+            "en": "What should you do before making a U-turn?"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Give an arm signal as well as using your indicators",
+              "translateContent": {
+                "vi": "Đưa ra tín hiệu bằng cánh tay đồng thời sử dụng xi nhan",
+                "en": "Give an arm signal as well as using your indicators"
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Check road markings to see that U-turns are permitted",
+              "translateContent": {
+                "vi": "Kiểm tra các vạch kẻ đường để biết rằng có được phép quay đầu xe hay không",
+                "en": "Check road markings to see that U-turns are permitted"
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": true,
+              "img": null,
+              "originalContent": "Look over your shoulder for a final check",
+              "translateContent": {
+                "vi": "Nhìn qua hai bên vai để kiểm tra lần cuối",
+                "en": "Look over your shoulder for a final check"
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Select a higher gear than normal",
+              "translateContent": {
+                "vi": "Chọn số cao hơn bình thường",
+                "en": "Select a higher gear than normal"
+              }
+            }
+          ]
+        },
+        {
+          "questionId": 2,
+          "img": "https://cdn.dribbble.com/userupload/11810344/file/original-ea16bfabd0efa82932c3e8f2f4c7b19f.jpg?resize=1200x900",
+          "originalContent": "What should you do as you approach this bridge?",
+          "translateContent": {
+            "vi": "Bạn nên làm gì trước khi quay đầu xe",
+            "en": "What should you do as you approach this bridge?"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
+              "originalContent": "Move to the right",
+              "translateContent": {
+                "vi": "Di chuyển sang bên phải",
+                "en": "Move to the right"
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": true,
+              "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
+              "originalContent": "Slow down",
+              "translateContent": {
+                "vi": "Đi chậm lại",
+                "en": "Slow down"
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
+              "originalContent": "Change gear",
+              "translateContent": {
+                "vi": "Chuyển số",
+                "en": "Change gear"
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/users/413551/screenshots/15517696/media/9a59d5a32b5c3eb3bd5f9350f13b6ab5.png?resize=800x600&vertical=center",
+              "originalContent": "Keep to 30 mph",
+              "translateContent": {
+                "vi": "Duy trì tốc độ 30 dặm/giờ",
+                "en": "Keep to 30 mph"
+              }
+            }
+          ]
+        },
+        {
+          "questionId": 3,
+          "img": null,
+          "originalContent": "Where should you avoid overtaking?",
+          "translateContent": {
+            "vi": "Bạn nên tránh vượt ở đâu?",
+            "en": "Where should you avoid overtaking?"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Just after a bend",
+              "translateContent": {
+                "vi": "Ngay sau khúc cua",
+                "en": "Just after a bend"
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "In a one-way street",
+              "translateContent": {
+                "vi": "Trên đường một chiều",
+                "en": "In a one-way street"
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "On a 30 mph road",
+              "translateContent": {
+                "vi": "Trên đoạn đường với vận tốc 30 dặm/giờ",
+                "en": "Check the sign to see if U-turns are allowed"
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": true,
+              "img": null,
+              "originalContent": "Approaching a dip in the road",
+              "translateContent": {
+                "vi": "Khi đến gần ổ gà",
+                "en": "Approaching a dip in the road"
+              }
+            }
+          ]
+        },
+        {
+          "questionId": 4,
+          "img": "https://cdn.dribbble.com/userupload/10710400/file/original-5b4c687544fb2c00a750af768f344dfe.jpg?resize=1200x1040",
+          "originalContent": "What does this curved arrow road marking mean?",
+          "translateContent": {
+            "vi": "Ký hiệu mũi tên cong này có ý nghĩa gì?",
+            "en": "What does this curved arrow road marking mean?"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "Heavy vehicles should take the next road on the left to avoid a weight limit",
+              "translateContent": {
+                "vi": "Xe trọng tải lớn nên đi theo làn đường phía bên trái để tránh bị giới hạn trọng lượng",
+                "en": "Heavy vehicles should take the next road on the left to avoid a weight limit"
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "The road ahead bends to the left",
+              "translateContent": {
+                "vi": "Con đường phía trước uốn cong về phía bên trái",
+                "en": "The road ahead bends to the left"
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": true,
+              "img": null,
+              "originalContent": "Overtaking traffic should move back to the left",
+              "translateContent": {
+                "vi": "Vượt các phương tiện giao thông nên lùi về bên phải",
+                "en": "Overtaking traffic should move back to the left"
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": false,
+              "img": null,
+              "originalContent": "The road ahead has a camber to the left",
+              "translateContent": {
+                "vi": "Con đường phía trước có một nút cong về bên trái",
+                "en": "The road ahead has a camber to the left"
+              }
+            }
+          ]
+        },
+        {
+          "questionId": 5,
+          "img": null,
+          "originalContent": "Which instrument-panel warning light would show that headlights are on main beam?",
+          "translateContent": {
+            "vi": "Đèn cảnh báo trên bảng điều khiển nào cho biết đèn pha đang được bật?",
+            "en": "Which instrument-panel warning light would show that headlights are on main beam?"
+          },
+          "options": [
+            {
+              "optionId": 1,
+              "isCorrect": true,
+              "img": "https://cdn.dribbble.com/userupload/11651096/file/original-acf2c0c9527c1c6598b4647be67e9fe1.png?resize=1200x900",
+              "originalContent": null,
+              "translateContent": {
+                "vi": null,
+                "en": null
+              }
+            },
+            {
+              "optionId": 2,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/userupload/11509048/file/original-c86827e2ff864c9ed4a272b25267c2c2.png?resize=1200x900",
+              "originalContent": null,
+              "translateContent": {
+                "vi":null,
+                "en": null
+              }
+            },
+            {
+              "optionId": 3,
+              "isCorrect": true,
+              "img": "https://cdn.dribbble.com/userupload/10933891/file/original-a12651472a1b3b0e24a70e6956a1a122.png?resize=1200x900",
+              "originalContent": null,
+              "translateContent": {
+                "vi": null,
+                "en":null
+              }
+            },
+            {
+              "optionId": 4,
+              "isCorrect": false,
+              "img": "https://cdn.dribbble.com/userupload/8260185/file/original-041cfaaf1b345409bc2de3be1e18eca7.png?resize=1200x899",
+              "originalContent": null,
+              "translateContent": {
+                "vi":null,
+                "en": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
